@@ -1,0 +1,21 @@
+# Jupyter
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
+
+# Environment
+.env
+*.env
+secrets.json
+
+# Generated knowledge files (created at runtime by notebook)
+circuits_2026.txt
+drivers_2026.txt
+history_2026.txt
+
+# SQLite database (created at runtime)
+*.db
+*.sqlite
+
+# macOS
+.DS_Store
